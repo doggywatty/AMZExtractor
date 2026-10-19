@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36811.4 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AMZExtractor", "AMZExtractor\AMZExtractor.csproj", "{2B7B726D-F80E-43D8-AAC4-547F5B1F20C7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2B7B726D-F80E-43D8-AAC4-547F5B1F20C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B7B726D-F80E-43D8-AAC4-547F5B1F20C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B7B726D-F80E-43D8-AAC4-547F5B1F20C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B7B726D-F80E-43D8-AAC4-547F5B1F20C7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83883C6D-1FC6-4E54-94A5-6BB4F4616A34}
+	EndGlobalSection
+EndGlobal
