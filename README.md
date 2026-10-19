@@ -2,6 +2,8 @@
 
 AMZExtractor is a tool for extracting files from Android Market ZIP (`.amz`) archives.
 
+Used in [JetEngineRevised](https://github.com/doggywatty/JetEngineRevised)'s development to extract Gameloft's *Minion Rush* files.
+
 ## Overview
 
 This project provides a way to unpack `.amz` files and access their contents.
